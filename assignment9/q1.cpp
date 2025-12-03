@@ -194,7 +194,6 @@ int main() {
         g.addEdge(u, v, w, true);  
     }
 
-    cout << "\n----- MENU -----\n";
     cout << "1. BFS\n2. DFS\n3. Kruskal MST\n4. Prim MST\n5. Dijkstra\n";
     cout << "Enter choice: ";
     int ch; cin >> ch;
